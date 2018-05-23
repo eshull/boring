@@ -1,13 +1,12 @@
-h2.intro {
+.intro h2 {
   font-size: 50px;
   color: purple;
 }
 
-p.intro {
+.intro p {
   font-style: italic;
 }
 
-img.intro {
-
+.intro img {
   border: 3px solid purple;
 }
